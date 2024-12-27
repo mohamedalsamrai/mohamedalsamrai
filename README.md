@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 Mohamed Al-Samrai <br>📟 Computer Engineering <br>📱Mobil developer-Flutter<br><br>Love chess ♟️, Electronics ⚡️ , Cybersecurity 👾 and Design  <br>
+I am a student in Computer Engineering Department field specializing in mobile app development using Flutter. Since the first year at university, I have consistently pursued learning and advanced my programming skills. With one year of experience, I have reached an advanced level in software development, focusing on enhancing user experiences and aligning with company goals, growth, and performance. My passion for programming drives me to create impactful and efficient applications that deliver value and excellence <br> 
 
 
 ## 🌐 Socials:
