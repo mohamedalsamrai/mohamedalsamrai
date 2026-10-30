@@ -8,13 +8,6 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=13B9FD&center=true&vCenter=true&width=700&lines=Flutter+engineer+%E2%80%94+from+widgets+down+to+the+engine;Shaders+%C2%B7+Rendering+%C2%B7+Impeller;Contributing+to+Flutter+itself;Making+complex+things+simple+for+the+community" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=0175C2&center=true&vCenter=true&width=700&lines=Flutter+engineer+%E2%80%94+from+widgets+down+to+the+engine;Shaders+%C2%B7+Rendering+%C2%B7+Impeller;Contributing+to+Flutter+itself;Making+complex+things+simple+for+the+community" alt="Flutter engineer — from widgets down to the engine · Shaders, rendering, Impeller · Contributing to Flutter itself · Making complex things simple for the community" />
-  </picture>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20work-Full--time%20%C2%B7%20Remote%20%C2%B7%20Freelance-0175C2?style=flat-square" alt="Open to work: full-time, remote, freelance" />
 </p>
 
@@ -26,51 +19,12 @@
   <a href="https://www.reddit.com/user/Sure_Education_828"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
 </p>
 
-## 👨‍💻 About me
 
 > **I take complex things and make them simple for the community.**
 
-I'm Mohammed, a Flutter engineer from Iraq with **6 years of programming** behind me. I study **Computer Engineering at Al-Nahrain University** and currently work at **[Alrabiaa TV](https://github.com/Alrabiaa)**.
+I'm Mohammed, a Computer engineer with **6 years of programming** currently work at **[Alrabiaa TV](https://github.com/Alrabiaa)**.
 
-I like going below the widget layer, into rendering, shaders and the engine itself, and coming back with something any developer can drop straight into their app. That's how [**Liquidum**](https://github.com/mohamedalsamrai/liquidum) started, and it's why I send fixes upstream to Flutter.
-
-- 🔭 **Now:** moving Flutter's shaders to named uniforms as `setFloat` gets deprecated
-- 🧱 **Next:** new features for [flutter_scene](https://github.com/bdero/flutter_scene), one small PR at a time
-- 🤝 **Open to:** full-time, remote and freelance work
-- 🌍 **Based in:** Iraq (UTC+3)
-- 📫 **Reach me:** [mohammed@al-samarrai.com](mailto:mohammed@al-samarrai.com)
-
-## 🧊 Featured project
-
-<p align="center">
-  <a href="https://github.com/mohamedalsamrai/liquidum">
-    <img src="https://raw.githubusercontent.com/mohamedalsamrai/liquidum/main/doc/images/hero.png" width="100%" alt="Liquidum's glass tab bar over colorful content: light, dark, and with a custom gradient and dark glass" />
-  </a>
-</p>
-
-<h3 align="center"><a href="https://github.com/mohamedalsamrai/liquidum">Liquidum</a></h3>
-
-<p align="center">An iOS 26–style glass tab bar for Flutter, tuned side by side against UIKit's real bar.</p>
-
-<p align="center">
-  <a href="https://pub.dev/packages/liquidum"><img src="https://img.shields.io/pub/v/liquidum?style=flat-square&label=pub&logo=dart&logoColor=white&color=0175C2" alt="pub version" /></a>
-  <a href="https://pub.dev/packages/liquidum/score"><img src="https://img.shields.io/pub/points/liquidum?style=flat-square&color=0175C2" alt="pub points" /></a>
-  <a href="https://pub.dev/packages/liquidum/score"><img src="https://img.shields.io/pub/likes/liquidum?style=flat-square&color=0175C2" alt="pub likes" /></a>
-  <img src="https://img.shields.io/badge/renderer-Impeller-0175C2?style=flat-square" alt="Renderer: Impeller" />
-  <img src="https://img.shields.io/badge/license-MIT-0175C2?style=flat-square" alt="License: MIT" />
-</p>
-
-- **One widget, the whole bar** — `GlassTabScaffold` handles the bar, page switching and per-tab navigation
-- **Glass that behaves like the real thing** — refraction, frost and shadows measured against the iOS 26 simulator, plus the lens that lifts and magnifies the tabs under your finger
-- **The details real apps need** — search tab, bottom accessory, minimize-on-scroll, RTL, Increase Contrast and Reduce Motion
-
-<details>
-<summary><b>▶ See it move</b></summary>
-<br />
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohamedalsamrai/liquidum/main/doc/images/press-and-slide.gif" width="420" alt="Pressing the bar: the lens lifts, slides across the tabs magnifying them, and settles on the tab let go over" />
-</p>
-</details>
+I like going below the widget layer, into rendering, shaders and the engine itself, and coming back with something any developer can drop straight into their app. That's how [**Liquidum**](https://github.com/mohamedalsamrai/liquidum) started,
 
 ## 🌱 Open source
 
