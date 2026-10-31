@@ -24,11 +24,10 @@
 
 I'm Mohammed, a Computer engineer with **6 years of programming** currently work at **[Alrabiaa TV](https://github.com/Alrabiaa)**.
 
-I like going below the widget layer, into rendering, shaders and the engine itself, and coming back with something any developer can drop straight into their app. That's how [**Liquidum**](https://github.com/mohamedalsamrai/liquidum) started,
 
 ## 🌱 Open source
 
-Fixes and features I've sent upstream:
+Last month
 
 | Repository | Contribution | PR |
 |:--|:--|:--:|
@@ -41,7 +40,6 @@ Fixes and features I've sent upstream:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,cpp,nodejs,express,mysql,react,vite,js,git,github&theme=dark&perline=11" />
     <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,nodejs,express,mysql,react,vite,js,git,github&theme=light&perline=11" alt="Flutter, Dart, C++, Node.js, Express, MySQL, React, Vite, JavaScript, Git, GitHub" />
   </picture>
 </p>
